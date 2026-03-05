@@ -1,4 +1,4 @@
-//name: der name des produkts (Bsp: headgear.crown = Krone)
+//name: der name des produkts (Bsp: headgear.crown = Krone) CODESTÜCK 1
 getAvatar = function(name, price) {
     return typeof log !== 'undefined'
         ? ( 
@@ -8,7 +8,7 @@ getAvatar = function(name, price) {
           )
         : void 8;
 };
-//Um den Namen herauszufinden
+//Um den Namen herauszufinden (CODESTÜCK 2)
 const oldLog = log.log;
 window.foundEvents = new Set();
 log.log = function(data){
