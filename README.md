@@ -14,18 +14,18 @@ Das ist der ULTIMATIVE Anton-App Hack:
 
 Beispiel:
 
->> <2. Codestück>
+ >> <2. Codestück>
 
 function log(data)
 
->> foundEvents
+ >> foundEvents
 
 Set [ "head.children.human.children.headgear.option/crown" ]
 
->> <1. Codestück>
+ >> <1. Codestück>
 
 function getAvatar(name,price)
 
->> getAvatar("headgear.crown",50)
+ >> getAvatar("headgear.crown",50)
 
 Promise { <state>: "fulfilled", <value>: undefined }
