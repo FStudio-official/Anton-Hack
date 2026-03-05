@@ -5,7 +5,7 @@ Das ist der ULTIMATIVE Anton-App Hack:
   
   -> Du kannst Kleidungsstücke von Anton Plus (eigentlich kostenpflichtig) GRATIS bekommen
 
-#Namen herausfinden
+# Namen herausfinden
 1. Führe EINMAL das 2. Codestück aus
 2. Klicke auf das gewünschte Produkt und schließe
 3. Gib foundEvents ein
